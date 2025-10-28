@@ -34,6 +34,7 @@ int main(){
 	   d=b*160000*a+phuCap3;
 	else
 	   d=b*160000*a+phuCap3+thuong*(b-26);
-	printf("Luong= %.2f VND", d);
+	printf("Luong= %.3f VND", d);
 	return 0;
 }
+
