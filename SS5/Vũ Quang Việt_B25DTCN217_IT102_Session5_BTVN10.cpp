@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-#include <math.h>
 int main(){
 	float phuPhi, tienBacthang, TienDien;
 	int kwh, loaiHo;
@@ -40,4 +39,5 @@ int main(){
 	printf("Tien dien = %.3f VND", TienDien);
 	return 0;
 }
+
 
